@@ -41,7 +41,10 @@
   border-bottom: 1px solid #4A5966;
   font-family: 'metropolisthin', sans-serif;
   font-weight: bold;
+}
 
+.links:hover a {
+  text-decoration: none;
 }
 
 header {
