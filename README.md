@@ -4,6 +4,9 @@ SPLURTY is a database-powered quote generator with a mobile-first design, using 
 
 - Check out SPLURTY Here: https://splurty-brian-hong.herokuapp.com
 
+Homepage:
+![splurty_home](https://github.com/brihong/splurty/blob/master/app/assets/images/Splurty_Homepage.PNG)
+
 
 
 
