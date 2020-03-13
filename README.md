@@ -7,6 +7,9 @@ SPLURTY is a database-powered quote generator with a mobile-first design, using 
 Homepage:
 ![splurty_home](https://github.com/brihong/splurty/blob/master/app/assets/images/Splurty_Homepage.PNG)
 
+Add your own quote:
+![splurty_add_quote](https://github.com/brihong/splurty/blob/master/app/assets/images/Splurty_Add_Quote.PNG)
+
 
 
 
